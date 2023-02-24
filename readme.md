@@ -3,7 +3,7 @@ Voici mon premier projet ThreeJS.
 
 ## Setup
 Télécharger [Node.js](https://nodejs.org/en/download/).
-Exécuter les commandes suivantes dans le terminal (VSCode par exemple):
+Exécuter les commandes suivantes dans un terminal (VSCode par exemple):
 
 ``` bash
 # Installer les dépendances (seulement une fois)
