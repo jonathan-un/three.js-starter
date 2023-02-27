@@ -1,5 +1,5 @@
 # Three.js Starter
-Voici mon premier projet ThreeJS.
+Voici mon premier projet Three.js.
 
 ## Setup
 Télécharger [Node.js](https://nodejs.org/en/download/).
